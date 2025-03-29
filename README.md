@@ -1,4 +1,5 @@
-## PROMPT-ENGINEERING- 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+## PROMPT-ENGINEERING- 1
+## Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
 2.	Focusing on Generative AI architectures. (like transformers).
@@ -122,5 +123,5 @@ Innovations aimed at improving LLM efficiency include:
 Conclusion
 Scaling has been a key driver of LLM advancements, enabling remarkable improvements in generative AI capabilities. However, the associated challenges necessitate continued research into more efficient architectures, training methodologies, and ethical considerations. The future of generative AI will likely focus on balancing performance with sustainability and accessibility.
 
-# Result
+## Result
 Generative AI has significantly enhanced content generation, NLP, and various creative applications. Large Language Models continue to improve in accuracy, efficiency, and adaptability, shaping the future of AI-driven innovation. Continued research and optimization will ensure responsible and effective use of these technologies.
